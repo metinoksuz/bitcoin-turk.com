@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/whl+BqQYHwI21XX+Q8re+6C+z1YlB9Y8FTZDskM1nc8DOkhmBYBf+PHmQbbVYKfIntQprLDC4lARCHcP9n3Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Metin\\Desktop\\projeler\\bitcointurk\\Bootsrapsunucu\\ANASUNUCU - Bootstrap ilk başlatılacak olan\\ANASUNUCU.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Metin\\.nuget\\packages\\fluentftp\\52.0.0\\fluentftp.52.0.0.nupkg.sha512",
+    "C:\\Users\\Metin\\.nuget\\packages\\system.net.websockets.websocketprotocol\\5.1.0\\system.net.websockets.websocketprotocol.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
